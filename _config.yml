@@ -4,7 +4,7 @@ description: >
   一个纯技术博客，希望记录学的每一时刻。
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://sunshanhe.github.io" # the base hostname & protocol for your site
+url: "http://vueter.site" # the base hostname & protocol for your site
 
 author:
   fullname: 孙山河
